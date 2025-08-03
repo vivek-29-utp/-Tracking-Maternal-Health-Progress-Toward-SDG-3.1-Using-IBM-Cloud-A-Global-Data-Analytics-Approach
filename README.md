@@ -17,4 +17,4 @@ The Sustainable Development Goal 3.1 aims to reduce the global maternal mortalit
 
 ## 👨‍💻 Author
 Vivek Katta  
-Jyothismathi Institute of Technology and Science, JNTU Hyderabad
+Jyothismathi Institute of Technology and Science
